@@ -1,0 +1,252 @@
+{
+  "avgPrePolicy": 1035.29,
+  "avgDuringPolicy": 1429.4,
+  "policyStartMonth": "Aug-24",
+  "series": [
+    {
+      "month": "Aug-22",
+      "densityUnits": 454,
+      "allUnits": 808
+    },
+    {
+      "month": "Sep-22",
+      "densityUnits": 1008,
+      "allUnits": 1392
+    },
+    {
+      "month": "Oct-22",
+      "densityUnits": 1091,
+      "allUnits": 1427
+    },
+    {
+      "month": "Nov-22",
+      "densityUnits": 1273,
+      "allUnits": 1501
+    },
+    {
+      "month": "Dec-22",
+      "densityUnits": 606,
+      "allUnits": 901
+    },
+    {
+      "month": "Jan-23",
+      "densityUnits": 892,
+      "allUnits": 1098
+    },
+    {
+      "month": "Feb-23",
+      "densityUnits": 739,
+      "allUnits": 1032
+    },
+    {
+      "month": "Mar-23",
+      "densityUnits": 697,
+      "allUnits": 937
+    },
+    {
+      "month": "Apr-23",
+      "densityUnits": 567,
+      "allUnits": 904
+    },
+    {
+      "month": "May-23",
+      "densityUnits": 1445,
+      "allUnits": 1836
+    },
+    {
+      "month": "Jun-23",
+      "densityUnits": 615,
+      "allUnits": 1025
+    },
+    {
+      "month": "Jul-23",
+      "densityUnits": 1009,
+      "allUnits": 1444
+    },
+    {
+      "month": "Aug-23",
+      "densityUnits": 1096,
+      "allUnits": 1486
+    },
+    {
+      "month": "Sep-23",
+      "densityUnits": 2075,
+      "allUnits": 2486
+    },
+    {
+      "month": "Oct-23",
+      "densityUnits": 1171,
+      "allUnits": 1641
+    },
+    {
+      "month": "Nov-23",
+      "densityUnits": 1129,
+      "allUnits": 1549
+    },
+    {
+      "month": "Dec-23",
+      "densityUnits": 810,
+      "allUnits": 1241
+    },
+    {
+      "month": "Jan-24",
+      "densityUnits": 1161,
+      "allUnits": 1491
+    },
+    {
+      "month": "Feb-24",
+      "densityUnits": 972,
+      "allUnits": 1328
+    },
+    {
+      "month": "Mar-24",
+      "densityUnits": 1103,
+      "allUnits": 1535
+    },
+    {
+      "month": "Apr-24",
+      "densityUnits": 1088,
+      "allUnits": 1467
+    },
+    {
+      "month": "May-24",
+      "densityUnits": 1207,
+      "allUnits": 1637
+    },
+    {
+      "month": "Jun-24",
+      "densityUnits": 1005,
+      "allUnits": 1496
+    },
+    {
+      "month": "Jul-24",
+      "densityUnits": 1634,
+      "allUnits": 2081
+    },
+    {
+      "month": "Aug-24",
+      "densityUnits": 982,
+      "allUnits": 1437
+    },
+    {
+      "month": "Sep-24",
+      "densityUnits": 1335,
+      "allUnits": 1826
+    },
+    {
+      "month": "Oct-24",
+      "densityUnits": 1813,
+      "allUnits": 2285
+    },
+    {
+      "month": "Nov-24",
+      "densityUnits": 1690,
+      "allUnits": 2246
+    },
+    {
+      "month": "Dec-24",
+      "densityUnits": 996,
+      "allUnits": 1336
+    },
+    {
+      "month": "Jan-25",
+      "densityUnits": 856,
+      "allUnits": 1167
+    },
+    {
+      "month": "Feb-25",
+      "densityUnits": 1802,
+      "allUnits": 2172
+    },
+    {
+      "month": "Mar-25",
+      "densityUnits": 1315,
+      "allUnits": 1656
+    },
+    {
+      "month": "Apr-25",
+      "densityUnits": 1838,
+      "allUnits": 2346
+    },
+    {
+      "month": "May-25",
+      "densityUnits": 2249,
+      "allUnits": 2763
+    },
+    {
+      "month": "Jun-25",
+      "densityUnits": 1625,
+      "allUnits": 2048
+    },
+    {
+      "month": "Jul-25",
+      "densityUnits": 1180,
+      "allUnits": 1609
+    },
+    {
+      "month": "Aug-25",
+      "densityUnits": 1387,
+      "allUnits": 1719
+    },
+    {
+      "month": "Sep-25",
+      "densityUnits": 1428,
+      "allUnits": 1862
+    },
+    {
+      "month": "Oct-25",
+      "densityUnits": 2397,
+      "allUnits": 2787
+    },
+    {
+      "month": "Nov-25",
+      "densityUnits": 1783,
+      "allUnits": 2171
+    },
+    {
+      "month": "Dec-25",
+      "densityUnits": 802,
+      "allUnits": 1067
+    },
+    {
+      "month": "Jan-26",
+      "densityUnits": 1471,
+      "allUnits": 1720
+    },
+    {
+      "month": "Feb-26",
+      "densityUnits": 818,
+      "allUnits": 1107
+    },
+    {
+      "month": "Mar-26",
+      "densityUnits": 1154,
+      "allUnits": 1475
+    },
+    {
+      "month": "Apr-26",
+      "densityUnits": 644,
+      "allUnits": 1042
+    },
+    {
+      "month": "May-26",
+      "densityUnits": 2086,
+      "allUnits": 2450
+    },
+    {
+      "month": "Jun-26",
+      "densityUnits": 1820,
+      "allUnits": 2194
+    },
+    {
+      "month": "Jul-26",
+      "densityUnits": 872,
+      "allUnits": 1233
+    },
+    {
+      "month": "Aug-26",
+      "densityUnits": 1392,
+      "allUnits": 1927
+    }
+  ]
+}

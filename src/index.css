@@ -1,0 +1,49 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme {
+  --font-serif: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-sans: "DM Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: #1c1917;
+    background-color: #ffffff;
+  }
+
+  h1, h2, h3 {
+    font-family: var(--font-serif);
+    text-wrap: balance;
+  }
+}
+
+/* Clean Leaflet styling aligned with Light Gray Canvas editorial look */
+.leaflet-container {
+  font-family: var(--font-sans);
+  background: #edf0f3;
+}
+
+.calgary-basemap-tiles {
+  filter: grayscale(100%) brightness(1.06) contrast(0.86) opacity(0.84);
+}
+
+.leaflet-control-attribution {
+  font-size: 11px !important;
+  background: rgba(255, 255, 255, 0.85) !important;
+  color: #57534e !important;
+  padding: 2px 8px !important;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 6px !important;
+  box-shadow: 0 8px 24px -6px rgba(15, 23, 42, 0.16) !important;
+  border: 1px solid #e7e5e4;
+  padding: 0 !important;
+}
+
+.leaflet-popup-content {
+  margin: 0 !important;
+}

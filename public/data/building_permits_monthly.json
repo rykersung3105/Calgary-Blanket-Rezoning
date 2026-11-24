@@ -1,0 +1,32 @@
+[
+  {
+    "type": "Additional Dwelling",
+    "prePolicy": 8.04,
+    "policyPeriod": 16.92,
+    "pctChange": 110.4
+  },
+  {
+    "type": "Apartment",
+    "prePolicy": 10,
+    "policyPeriod": 9.29,
+    "pctChange": -7.1
+  },
+  {
+    "type": "Townhouse",
+    "prePolicy": 30.71,
+    "policyPeriod": 46.75,
+    "pctChange": 52.2
+  },
+  {
+    "type": "Two Family",
+    "prePolicy": 120.25,
+    "policyPeriod": 130.08,
+    "pctChange": 8.2
+  },
+  {
+    "type": "Secondary Suites",
+    "prePolicy": 42.17,
+    "policyPeriod": 67.67,
+    "pctChange": 60.5
+  }
+]
