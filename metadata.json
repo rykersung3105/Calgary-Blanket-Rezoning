@@ -2,5 +2,7 @@
   "name": "Calgary Blanket Rezoning",
   "description": "An interactive geospatial story examining the effects of Calgary's 2024 Land-Use Blanket Rezoning Policy on housing supply, permit efficiency, infrastructure, and market affordability using local GeoJSON and GeoTIFF datasets.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
